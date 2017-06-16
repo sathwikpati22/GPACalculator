@@ -4,6 +4,8 @@ Application: GPA Calculator
 
 Objective: To calculate the GPA for the grades awarded
 
+Description: Find the desciption in the file  https://github.com/sathwikpati22/GPACalculator/blob/master/CloudVirtualHosting%20Description.pdf
+
 Input:
 It can take grades of 5 subjects and respective credit hours
 Enter grades and respective credit 
